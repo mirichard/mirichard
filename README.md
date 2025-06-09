@@ -105,22 +105,6 @@
 
 ---
 
-## 📚 Thought Leadership & Industry Recognition
-
-**🎤 Cornell MBA + Technical Program Management Speaking**
-- **"The Ivy League Advantage in Technical Leadership"** - Executive PM Conference
-- **"From Information Systems to Executive Leadership"** - Cornell Alumni Events
-- **"MBA Skills Every Technical Program Manager Needs"** - PMI Leadership Summit
-- **"Digital Transformation: Technical + Business Mastery"** - Life Sciences Executive Forum
-
-**✍️ Publications & Framework Development**
-- **Harvard Business Review**: "The Technical Leader's Guide to Strategic Thinking" 
-- **Cornell Business Review**: "Information Systems Background in Executive Leadership"
-- **PMI Today**: "Why Technical Program Managers Need MBA Skills"
-- **Open Source Impact**: 150+ templates used by Cornell alumni network
-
----
-
 ## 🎯 2025 Strategic Objectives
 
 **🏛️ Cornell Network Leverage**
