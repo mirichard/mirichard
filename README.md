@@ -32,7 +32,6 @@
 
 ### **Industry Specialization**
 - 🧬 **Life Sciences**: Clinical data management, regulatory compliance
-- 🌿 **Sustainability**: Carbon tracking, ESG reporting, green technology
 - 💡 **Innovation**: Emerging tech evaluation, pilot program execution
 
 ---
