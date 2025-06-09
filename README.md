@@ -72,12 +72,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirichard&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirichard&layout=compact)
-
----
-
 ## 📈 Program Management Impact
 
 | Business Metric | Career Achievement | Recent Success |
