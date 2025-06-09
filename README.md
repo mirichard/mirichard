@@ -1,4 +1,4 @@
-# Michael Richard | Senior Technical Program Manager
+# Michael Richard | Program Manager
 
 **🎯 Cornell MBA + Technical Systems Leader driving $150M+ portfolio success**
 
