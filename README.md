@@ -11,7 +11,6 @@
 
 - **📋 Project Management Excellence**: Building comprehensive PM template libraries for modern methodologies
 - **🤖 AI-Driven Automation**: Implementing intelligent workflows for life sciences data processing
-- **🌱 Sustainability Tech**: Leading net-zero initiatives through strategic technology deployment
 - **📊 Data Warehousing**: Architecting scalable solutions for life sciences research
 
 ---
