@@ -92,11 +92,10 @@
 **💬 I'm always interested in discussing:**
 - Strategic program management challenges
 - AI/ML integration in enterprise environments
-- Sustainability technology implementation
 - Data platform architecture and governance
 
 **📫 Reach out via:**
-- 💼 [LinkedIn](https://linkedin.com/in/mirichard) for professional collaboration
+- 💼 [LinkedIn](https://linkedin.com/in/michaelrichard) for professional collaboration
 - 📧 Email for speaking opportunities or consulting
 - 🐙 GitHub Issues for template library feedback
 
