@@ -102,11 +102,6 @@
 
 **Impact**: Streamlined project delivery for 200+ teams globally
 
-### [🔄 Hybrid PM Methodology Demo](https://github.com/mirichard/pm-hybrid-demo)
-**Real-world example of Agile-Waterfall integration**
-- 📈 Demonstrates scaled delivery approach
-- 🔄 GitHub-native project management workflows
-- 📋 Executive reporting automation
 
 ---
 
