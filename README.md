@@ -29,7 +29,6 @@
 **📫 Reach out via:**
 - 💼 [LinkedIn](https://linkedin.com/in/michaelrichard) for executive collaboration and Cornell alumni network
 - 📧 Email for speaking opportunities, consulting, or board positions
-- 🏛️ Cornell connections for alumni events and guest lectures
 - 🐙 GitHub Issues for open source template library feedback
 
 ---
