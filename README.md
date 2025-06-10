@@ -22,7 +22,7 @@
 - Executive-level program management and digital transformation
 - AI/ML integration in enterprise life sciences environments
 - Strategic data platform architecture and governance
-- Ivy League network collaboration opportunities
+- Network collaboration opportunities
 
 **📫 Reach out via:**
 - 💼 [LinkedIn](https://linkedin.com/in/michaelrichard) for executive collaboration and Cornell alumni network
