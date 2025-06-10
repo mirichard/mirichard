@@ -14,8 +14,6 @@
 - 🔧 Integration guides for popular PM tools (Jira, MS Project, GitHub)
 - 👥 Role-based toolkits (PM, Scrum Master, Product Owner, Executive)
 
-**Impact**: Streamlined project delivery for 200+ teams globally
-
 ---
 
 ## 🤝 Let's Connect
