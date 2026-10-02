@@ -9,7 +9,7 @@
 
 ### [📋 PM Tools & Templates Library]([https://github.com/mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates/blob/main/README.md)
 **Comprehensive project management resource library**
-- 🎯 150+ templates across PMBOK, Agile, and Hybrid methodologies
+- 🎯 139 templates across PMBOK, Agile, and Hybrid methodologies
 - 📊 Industry-specific adaptations (Healthcare, Finance, IT, Construction)
 - 🔧 Integration guides for popular PM tools (Jira, MS Project, Smartsheet
 - 👥 Role-based toolkits (PM, Scrum Master, Product Owner, Executive)
