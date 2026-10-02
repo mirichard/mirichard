@@ -25,7 +25,7 @@
 - Network collaboration opportunities
 
 **📫 Reach out via:**
-- 💼 [LinkedIn](https://linkedin.com/in/michaelrichard) for executive collaboration and Cornell alumni network
+- 💼 [LinkedIn](https://linkedin.com/in/michaelrichard) for executive collaboration
 - 📧 Email for speaking opportunities, consulting, or board positions
 - 🐙 GitHub Issues for open source template library feedback
 
